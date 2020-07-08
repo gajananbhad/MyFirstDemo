@@ -1,1 +1,7 @@
 This is my welcome file
+public class Sample1{
+
+	main(){
+		sout('Welcome to git');
+	}
+}
